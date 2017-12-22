@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1483235135 source:h:\Брвы\aaaaaaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"init.h"
+	"interupt.h"
+
+1483233578 h:\Брвы\aaaaaaaa\init.h
+
+1482935299 source:h:\Брвы\aaaaaaaa\interupt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"init.h"
+
+1482935683 h:\Брвы\aaaaaaaa\interupt.h
+

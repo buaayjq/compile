@@ -1,0 +1,49 @@
+int add(int a,int b){
+	int c;
+	c = a+b;
+	return (c);
+}
+float adds(float a,float b){
+	float c;
+	c =a+b;
+	return (c);
+}
+void main(){
+	int a;
+	int b;
+	int c;
+	int d;
+	int i;
+	int x;
+	int y;
+	float m;
+	float n;
+	scanf(d);
+	scanf(x);
+	scanf(y);
+	scanf(m);
+	scanf(n);
+	a=1;
+	i=0;
+	b=a+1;
+	c=a*b;
+	switch(d){
+		case 1:printf(a);
+		case 2:printf(b);
+		case 3:printf(x*y);
+	}
+	while(i<5){
+		c=c+1;
+		i=i+1;
+	}
+	if(x<y){
+		printf(x);
+	}
+	else{
+		printf(y);
+	}
+
+	printf(c);
+	printf(add(x,y));
+	printf(adds(m,n));
+}
